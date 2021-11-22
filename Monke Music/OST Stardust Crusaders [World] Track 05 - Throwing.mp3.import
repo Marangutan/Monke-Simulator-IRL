@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/OST Stardust Crusaders [World] Track 05 - Throwing.mp3-5230005bd8b5991121eb661f2e92a9e9.mp3str"
+
+[deps]
+
+source_file="res://Monke Music/OST Stardust Crusaders [World] Track 05 - Throwing.mp3"
+dest_files=[ "res://.import/OST Stardust Crusaders [World] Track 05 - Throwing.mp3-5230005bd8b5991121eb661f2e92a9e9.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

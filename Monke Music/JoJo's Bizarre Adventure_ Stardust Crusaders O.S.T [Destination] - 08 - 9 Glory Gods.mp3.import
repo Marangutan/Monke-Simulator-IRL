@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/JoJo's Bizarre Adventure_ Stardust Crusaders O.S.T [Destination] - 08 - 9 Glory Gods.mp3-b1d3eaf34cf1d116924278981cafafb0.mp3str"
+
+[deps]
+
+source_file="res://Monke Music/JoJo's Bizarre Adventure_ Stardust Crusaders O.S.T [Destination] - 08 - 9 Glory Gods.mp3"
+dest_files=[ "res://.import/JoJo's Bizarre Adventure_ Stardust Crusaders O.S.T [Destination] - 08 - 9 Glory Gods.mp3-b1d3eaf34cf1d116924278981cafafb0.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

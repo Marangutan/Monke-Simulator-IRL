@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/JoJo's Bizarre Adventure_ Stardust Crusaders [Destination] OST - Awakening Darkness of The World.mp3-4719c651236ec8ce62021188981d5409.mp3str"
+
+[deps]
+
+source_file="res://Monke Music/JoJo's Bizarre Adventure_ Stardust Crusaders [Destination] OST - Awakening Darkness of The World.mp3"
+dest_files=[ "res://.import/JoJo's Bizarre Adventure_ Stardust Crusaders [Destination] OST - Awakening Darkness of The World.mp3-4719c651236ec8ce62021188981d5409.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

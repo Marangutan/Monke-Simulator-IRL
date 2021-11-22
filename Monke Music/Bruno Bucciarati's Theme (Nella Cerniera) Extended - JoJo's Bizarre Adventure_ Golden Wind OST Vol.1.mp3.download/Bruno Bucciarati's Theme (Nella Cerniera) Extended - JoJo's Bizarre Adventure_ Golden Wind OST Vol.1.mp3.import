@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Bruno Bucciarati's Theme (Nella Cerniera) Extended - JoJo's Bizarre Adventure_ Golden Wind OST Vol.1.mp3-190775f2ce771f328dadf0ff286d7fa5.mp3str"
+
+[deps]
+
+source_file="res://Monke Music/Bruno Bucciarati's Theme (Nella Cerniera) Extended - JoJo's Bizarre Adventure_ Golden Wind OST Vol.1.mp3.download/Bruno Bucciarati's Theme (Nella Cerniera) Extended - JoJo's Bizarre Adventure_ Golden Wind OST Vol.1.mp3"
+dest_files=[ "res://.import/Bruno Bucciarati's Theme (Nella Cerniera) Extended - JoJo's Bizarre Adventure_ Golden Wind OST Vol.1.mp3-190775f2ce771f328dadf0ff286d7fa5.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

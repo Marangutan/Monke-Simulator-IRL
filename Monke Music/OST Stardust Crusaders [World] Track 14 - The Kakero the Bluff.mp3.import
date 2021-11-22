@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/OST Stardust Crusaders [World] Track 14 - The Kakero the Bluff.mp3-b6c81a4ae0d1adc937ac3b11ec7fa170.mp3str"
+
+[deps]
+
+source_file="res://Monke Music/OST Stardust Crusaders [World] Track 14 - The Kakero the Bluff.mp3"
+dest_files=[ "res://.import/OST Stardust Crusaders [World] Track 14 - The Kakero the Bluff.mp3-b6c81a4ae0d1adc937ac3b11ec7fa170.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

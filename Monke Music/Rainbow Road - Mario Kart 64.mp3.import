@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Rainbow Road - Mario Kart 64.mp3-698c5a7c9ee2fbde93d287aa45a22e5c.mp3str"
+
+[deps]
+
+source_file="res://Monke Music/Rainbow Road - Mario Kart 64.mp3"
+dest_files=[ "res://.import/Rainbow Road - Mario Kart 64.mp3-698c5a7c9ee2fbde93d287aa45a22e5c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

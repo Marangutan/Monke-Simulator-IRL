@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Theme of Super Mario Galaxy 2 - Super Mario Galaxy 2.mp3-f5e72e859bc55bfa37cb8d83b4f6a1b8.mp3str"
+
+[deps]
+
+source_file="res://Monke Music/Theme of Super Mario Galaxy 2 - Super Mario Galaxy 2.mp3"
+dest_files=[ "res://.import/Theme of Super Mario Galaxy 2 - Super Mario Galaxy 2.mp3-f5e72e859bc55bfa37cb8d83b4f6a1b8.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

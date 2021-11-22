@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Iron Maiden - The Trooper (Official Video).mp3-7656a8fe7a338caa699640d6bff91abe.mp3str"
+
+[deps]
+
+source_file="res://Monke Music/Iron Maiden - The Trooper (Official Video).mp3"
+dest_files=[ "res://.import/Iron Maiden - The Trooper (Official Video).mp3-7656a8fe7a338caa699640d6bff91abe.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

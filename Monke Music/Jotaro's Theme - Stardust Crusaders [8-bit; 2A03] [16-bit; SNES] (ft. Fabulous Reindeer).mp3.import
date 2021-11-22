@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Jotaro's Theme - Stardust Crusaders [8-bit; 2A03] [16-bit; SNES] (ft. Fabulous Reindeer).mp3-860a890cfed253acd1f24b0b4388695d.mp3str"
+
+[deps]
+
+source_file="res://Monke Music/Jotaro's Theme - Stardust Crusaders [8-bit; 2A03] [16-bit; SNES] (ft. Fabulous Reindeer).mp3"
+dest_files=[ "res://.import/Jotaro's Theme - Stardust Crusaders [8-bit; 2A03] [16-bit; SNES] (ft. Fabulous Reindeer).mp3-860a890cfed253acd1f24b0b4388695d.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

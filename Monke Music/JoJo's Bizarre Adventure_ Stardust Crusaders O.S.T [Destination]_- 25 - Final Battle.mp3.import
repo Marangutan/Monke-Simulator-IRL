@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/JoJo's Bizarre Adventure_ Stardust Crusaders O.S.T [Destination]_- 25 - Final Battle.mp3-2d330467f0af00a096f86bb675d6d87f.mp3str"
+
+[deps]
+
+source_file="res://Monke Music/JoJo's Bizarre Adventure_ Stardust Crusaders O.S.T [Destination]_- 25 - Final Battle.mp3"
+dest_files=[ "res://.import/JoJo's Bizarre Adventure_ Stardust Crusaders O.S.T [Destination]_- 25 - Final Battle.mp3-2d330467f0af00a096f86bb675d6d87f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

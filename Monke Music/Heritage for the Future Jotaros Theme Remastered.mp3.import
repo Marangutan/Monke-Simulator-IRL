@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Heritage for the Future Jotaros Theme Remastered.mp3-54df7aefb7648875fc2281fafc36d58b.mp3str"
+
+[deps]
+
+source_file="res://Monke Music/Heritage for the Future Jotaros Theme Remastered.mp3"
+dest_files=[ "res://.import/Heritage for the Future Jotaros Theme Remastered.mp3-54df7aefb7648875fc2281fafc36d58b.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

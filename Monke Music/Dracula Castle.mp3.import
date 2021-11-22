@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Dracula Castle.mp3-f7941a79aced0315a1635e6b15e823ca.mp3str"
+
+[deps]
+
+source_file="res://Monke Music/Dracula Castle.mp3"
+dest_files=[ "res://.import/Dracula Castle.mp3-f7941a79aced0315a1635e6b15e823ca.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

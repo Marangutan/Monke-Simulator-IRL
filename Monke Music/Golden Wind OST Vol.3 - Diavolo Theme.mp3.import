@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Golden Wind OST Vol.3 - Diavolo Theme.mp3-a5937dc655f5af74c251f1c000587641.mp3str"
+
+[deps]
+
+source_file="res://Monke Music/Golden Wind OST Vol.3 - Diavolo Theme.mp3"
+dest_files=[ "res://.import/Golden Wind OST Vol.3 - Diavolo Theme.mp3-a5937dc655f5af74c251f1c000587641.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
